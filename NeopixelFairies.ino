@@ -1,4 +1,4 @@
-// LED faries that use the NeoPixels library
+// LED fairies that use the NeoPixels library
 #include <Adafruit_NeoPixel.h>
 
 #define PIXEL_PIN 0
